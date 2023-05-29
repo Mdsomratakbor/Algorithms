@@ -1,0 +1,15 @@
+D:\PersonalProject\Algorithms\BFS\bin\Debug\net6.0\BFS.exe
+D:\PersonalProject\Algorithms\BFS\bin\Debug\net6.0\BFS.deps.json
+D:\PersonalProject\Algorithms\BFS\bin\Debug\net6.0\BFS.runtimeconfig.json
+D:\PersonalProject\Algorithms\BFS\bin\Debug\net6.0\BFS.dll
+D:\PersonalProject\Algorithms\BFS\bin\Debug\net6.0\BFS.pdb
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.csproj.AssemblyReference.cache
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.AssemblyInfoInputs.cache
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.AssemblyInfo.cs
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.csproj.CoreCompileInputs.cache
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.dll
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\refint\BFS.dll
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.pdb
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\BFS.genruntimeconfig.cache
+D:\PersonalProject\Algorithms\BFS\obj\Debug\net6.0\ref\BFS.dll
