@@ -16,5 +16,6 @@ root.right = new TreeNode(20);
 root.right.left = new TreeNode(15);
 root.right.right = new TreeNode(7);
 
-Binary_Tree_Level_Order_Traversal binaryTree = new ();
-IList<IList<int>> traversalResult = binaryTree.LevelOrder(root);
+Maximum_Depth_of_Binary_Tree binaryTree = new ();
+//IList<IList<int>> traversalResult = Maximum_Depth_of_Binary_Tree.MaxDepth(root);
+int traversalResult = binaryTree.MaxDepth(root);
