@@ -10,12 +10,13 @@
 
 //graph.BFS(0);
 
-TreeNode root = new TreeNode(3);
-root.left = new TreeNode(9);
-root.right = new TreeNode(20);
-root.right.left = new TreeNode(15);
-root.right.right = new TreeNode(7);
+TreeNode root = new TreeNode(2);
+root.right = new TreeNode(3);
+root.right.right = new TreeNode(4);
+root.right.right.right = new TreeNode(5);
+root.right.right.right.right = new TreeNode(6);
 
-Maximum_Depth_of_Binary_Tree binaryTree = new ();
+Minimum_Depth_of_Binary_Tree binaryTree = new ();
 //IList<IList<int>> traversalResult = Maximum_Depth_of_Binary_Tree.MaxDepth(root);
-int traversalResult = binaryTree.MaxDepth(root);
+int traversalResult = binaryTree.MinDepth(root);
+Console.WriteLine(traversalResult);
